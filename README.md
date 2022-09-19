@@ -2,7 +2,7 @@
 
 Projeto de manipulação de dados, por meio de queries SQL, desenvolvido durante o curso de Desenvolvimento Web Full Stack na [Trybe](https://www.betrybe.com/).
 
-Os arquivos iniciados com a palavra "desafio" armazena uma query SQL - desenvolvida por [mim](https://www.linkedin.com/in/emilydemenezes/) para manipular os dados do banco. Por sua vez, o conteúdo do aqruivo "northwind.sql" é responsável pela criação do banco de dados cujo arquivo foi disponibilizado pela [Trybe](https://www.betrybe.com/).
+Os arquivos iniciados com a palavra "desafio" armazena uma query SQL - desenvolvida por [mim](https://www.linkedin.com/in/emilydemenezes/) para manipular os dados do banco. Por sua vez, o conteúdo do arquivo "northwind.sql" é responsável pela criação do banco de dados cujo arquivo foi disponibilizado pela [Trybe](https://www.betrybe.com/).
 
 ## Comandos que mais foram utilizados: 
 
